@@ -8,7 +8,12 @@ public:
 public: void Cetak() {
     cout << "NIM = " << nim;
     cout << "Nama = " << nama;
-}
+    }
+};
+
+class Matakuliah {
+private:
+    string kode;
 };
 
 

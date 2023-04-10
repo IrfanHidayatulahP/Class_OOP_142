@@ -14,6 +14,7 @@ public: void Cetak() {
 class Matakuliah {
 private:
     string kode;
+    string namaM;
 };
 
 
